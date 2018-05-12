@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26802'
     url: http://www.gutenberg.org/2009/agents/26802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24906#History-of-the-Eighty-sixth-Regiment-Illinois-Volunteer-Infantry-during-its-term-of-service
 gutenberg_bookshelf:
 - US Civil War
 - United States
