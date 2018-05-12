@@ -1,0 +1,30 @@
+_repo: History-of-the-Eighty-sixth-Regiment-Illinois-Volunteer-Infantry-during-its-term-of-service_24906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kinnear, John R.
+    gutenberg_agent_id: '26802'
+    url: http://www.gutenberg.org/2009/agents/26802
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- United States
+gutenberg_issued: '2008-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Illinois'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 86th (1862-1865)'
+title: History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its
+  term of service
+url: http://www.gutenberg.org/ebooks/24906
